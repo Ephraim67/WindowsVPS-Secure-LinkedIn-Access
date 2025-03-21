@@ -1,6 +1,6 @@
 ### **Setting Up a Windows VPS for Secure LinkedIn Access**  
 
-This guide will walk you through setting up a Windows VPS that allows multiple users to log into LinkedIn securely while avoiding security flags.  
+Setting up a Windows VPS that allows multiple users to log into LinkedIn securely while avoiding security flags.  
 
 ---
 
