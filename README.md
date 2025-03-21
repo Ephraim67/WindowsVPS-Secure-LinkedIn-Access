@@ -73,11 +73,3 @@ Once everything is set up, ensure you provide the following:
 **Pre-installed Google Chrome** with security settings optimized.  
 **RDP login details** for both you and your VA.  
 **Step-by-step guide** (text or Loom video) on accessing the VPS.  
-
----
-
-## **Budget Considerations**  
-
-- **VPS Cost**: $15-$40/month (varies by provider).  
-- **Setup Time**: Takes about **2-4 hours** for a skilled freelancer.  
-- **Budget**: $30-$50 is tight but feasible if an experienced freelancer has pre-configured automation scripts.  
